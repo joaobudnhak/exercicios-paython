@@ -1,1 +1,1 @@
-# exercicios-paython
+# exercicios-python
